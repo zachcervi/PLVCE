@@ -8,7 +8,8 @@ The PLVCE mobile application is an app that utilized the device features such as
 - SQLite
 
 ###Screenshots
-Due to the fact that this app requires an actual device to unlock key features, I can only provide iPhone screenshots at this time.
+######Due to the fact that this app requires an actual device to unlock key features, I can only provide iPhone screenshots at this time.
+---
 ![Screenshot](screenshots/iPhone//iPhone1.png)
 ![Screenshot](screenshots/iPhone//iPhone2.png)
 ![Screenshot](screenshots/iPhone//iPhone3.png)
