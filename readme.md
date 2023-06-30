@@ -6,6 +6,7 @@ The PLVCE mobile application is an app that utilized the device features such as
 - React Native
 - Expo
 - SQLite
+- Google Maps API
 
 ### Screenshots
 ###### Due to the fact that this app requires an actual device to unlock key features, I can only provide iPhone screenshots at this time.
